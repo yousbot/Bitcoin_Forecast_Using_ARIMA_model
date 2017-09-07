@@ -1,6 +1,8 @@
 Bitcoin Forecast Using ARIMA model
 ===
 Bitcoin's Value Forecast using ARIMA model, in contrast to an Exponential Smoothing approach.This method is applied in financial computing to analyze patterns in a large set of Data. I got the data set from " https://bitcoincharts.com/charts/bitstampUSD#tgSzm1g10zm2g25zv ". Preservig only Date's and Prices in dollar. After that, i applied both the Exponential Smoothing Algorithm, which gave result completely opposite to the AutoRegressive Integrated Moving Average (ARIMA ) model. 
+
+Last update using the ARIMA function from Forecast Package : 07/09/2017
 ---
 The algorithm and the methods were extracted from this minimalistic documentation : 
 ---
