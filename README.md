@@ -20,7 +20,7 @@ The algorithm and the methods were extracted from the following minimalistic doc
 
 ## Project Details
 
-- **Author**: [Your Name]
-- **Maintainer**: [Your Name]
+- **Author**: Youssef Sbai Idrissi
+- **Maintainer**: None
 - **Date**: 07/09/2017
-- **Version**: [Your Version]
+- **Version**: None
